@@ -1,0 +1,2 @@
+API_KEY_CHAT = ''
+API_KEY_BARD = 'agiCM5ct4d-LKfm5VnjRhnc9YUQF2n0I1lpfUqEtY-QB48EYG14Z_ly5ZaOXwxQuHnZbjw.'
